@@ -42,6 +42,9 @@ Deployed a Windows Server domain controller and managed users, groups, and permi
 👉 <b>Skills:</b> User account management, domain administration  
 🔗 https://github.com/chamseddinemo/Active-Directory-IT-Infrastructure-Lab
 
+<p> rajoute un autre lab de ACTIVE DIRECTORY AVEC PHASSE AUTOMATISATION voici le lien : </p>
+https://github.com/chamseddinemo/AUTOMATION-POWERSHELL-
+
 ---
 
 ### ☁️ Microsoft 365 / Entra ID Lab

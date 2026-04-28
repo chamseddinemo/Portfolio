@@ -40,7 +40,7 @@ Deployed a Windows Server domain controller and managed users, groups, and permi
 - Applied Group Policy (GPO)
 
 👉 <b>Skills:</b> User account management, domain administration  
-🔗 https://github.com/TON-USERNAME/active-directory-lab
+🔗 https://github.com/chamseddinemo/Active-Directory-IT-Infrastructure-Lab
 
 ---
 

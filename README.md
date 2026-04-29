@@ -22,7 +22,7 @@ Portfolio
   👉 [Voir le projet](TON_LIEN)
 
 - <b>🔹 Automation Scripts (PowerShell)</b>  
-  👉 [Voir le projet]([TON_LIEN](https://github.com/chamseddinemo/AUTOMATION-POWERSHELL-))
+  👉 [Voir le projet]([https://github.com/chamseddinemo/AUTOMATION-POWERSHELL-]
 
 ---
 

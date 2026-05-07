@@ -133,7 +133,7 @@ VMware | VirtualBox | Git | ServiceNow | Jira
 
 <h2>Certifications</h2>
 
-- <b>CompTIA Security+</b> — In Progress  
+- <b>CompTIA A+</b> — In Progress  
   <i>Focus:</i> Network Security, Risk Management, IAM, Cryptography  
 
 - <b>Continuous Learning</b>  

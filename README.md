@@ -22,13 +22,13 @@ Portfolio
 - <b>🔹 Automation Scripts (PowerShell)</b>  
   👉 Voir le projet :[https://github.com/chamseddinemo/AUTOMATION-POWERSHELL-]
 
-- <b>🔹 Active Directory Lab </b>  
+- <b>🔹 Active Directory Projet </b>  
   👉 Voir le projet :[https://github.com/chamseddinemo/Active-Directory-IT-Infrastructure-Lab]
   
-- <b>🔹 Entra ID Lab </b>  
+- <b>🔹 Entra ID Projet </b>  
   👉 Voir le projet :[https://github.com/chamseddinemo/Microsoft-Entra-ID]
 
- - <b>🔹 Microsoft 365 </b>  
+ - <b>🔹 Microsoft 365 Projet </b>  
   👉 Voir le projet :[https://github.com/chamseddinemo/Entra-ID-Microsoft-365-Enterprise-]
 
  - <b>🔹 ticketing system (En cour)</b>  

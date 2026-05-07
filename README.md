@@ -26,7 +26,7 @@ Portfolio
 
 ---
 
-<h2>🧩 Technical Projects (Home Labs)</h2>
+<h2>🧩 Technical Projects </h2>
 
 ### 🔧 Active Directory Lab
 <b>Description:</b>  

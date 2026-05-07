@@ -133,5 +133,5 @@ VMware | VirtualBox | Git | ServiceNow | Jira
 
 <h2>🤳 Connect with me</h2>
 
-<a href="TON_LINKEDIN">LinkedIn</a>  
+<a href="TON_LINKEDIN">LinkedIn Lien : <https://www.linkedin.com/in/chams-eddine-m-207b4a3b4/></a>  
 <a href="TON_GITHUB">GitHub</a>  

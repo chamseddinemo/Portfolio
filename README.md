@@ -15,9 +15,8 @@ Portfolio
 
 <h2>👨‍💻 Software Development Projects</h2>
 
-- <b>🔹 Algorithms & Data Structures (Python)</b>  
-  👉 [Voir le projet](TON_LIEN)
-
+- <b>🔹 Algorithms & Data Structures (c#)</b>  
+  
 - <b>🔹 Full Stack Web App (React / Node.js)</b>  
   👉 Voir le projet: [https://github.com/chamseddinemo/MonCondo-]
 

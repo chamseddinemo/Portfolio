@@ -12,7 +12,7 @@ Portfolio
 
 ---
 
-<h2>👨‍💻 Software Development Projects</h2>
+<h2>Software Development Projects</h2>
 
 - <b>🔹 Algorithms & Data Structures (c#)</b>  
   
@@ -37,7 +37,7 @@ Portfolio
 
 ---
 
-<h2>🧩 Technical Projects </h2>
+<h2>Technical Projects </h2>
 
 ### 🔧 Active Directory Lab
 <b>Description:</b>  
@@ -132,17 +132,17 @@ VMware | VirtualBox | Git | ServiceNow | Jira
 
 ---
 
-<h2>📜 Certifications</h2>
+<h2>Certifications</h2>
 
-- 🎯 <b>CompTIA Security+</b> — In Progress  
+- <b>CompTIA Security+</b> — In Progress  
   <i>Focus:</i> Network Security, Risk Management, IAM, Cryptography  
 
-- 📚 <b>Continuous Learning</b>  
+- <b>Continuous Learning</b>  
   Active Directory | Microsoft 365 | Azure | IT Support Labs
   
 ---
 
-<h2>🤳 Connect with me</h2>
+<h2>Connect with me</h2>
 
 <a href="TON_LINKEDIN">LinkedIn Lien : <https://www.linkedin.com/in/chams-eddine-m-207b4a3b4/></a>  
 <a href="TON_GITHUB">GitHub</a>  

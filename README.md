@@ -8,7 +8,6 @@ Portfolio
 <p>
 💻 Passionné par l’informatique, je combine <b>développement logiciel</b> et <b>administration systèmes</b>.<br/>
 🔧 Je construis des <b>home labs</b> pour simuler des environnements d’entreprise (Active Directory, réseaux, cloud).<br/>
-🚀 Objectif : devenir <b>Technicien IT / SysAdmin / Cloud Junior</b>.
 </p>
 
 ---

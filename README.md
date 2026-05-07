@@ -1,12 +1,12 @@
 Portfolio
 <h1>Hi, I'm MOKHTARI MOHAMMED CHAMS EDDINE ! 👋 <br/>
-<a href="TON_GITHUB">Programmer</a> | 
-<a href="TON_LINKEDIN">IT Technician</a> | 
+<a href="TON_GITHUB">IT Technician</a> | 
+<a href="TON_LINKEDIN">Support TI</a> | 
 <a href="#">Cloud & Systems Enthusiast</a>
 </h1>
 
 <p>
-💻 Passionné par l’informatique, je combine <b>développement logiciel</b> et <b>administration systèmes</b>.<br/>
+Technicien informatique orienté support TI, administration systèmes et automatisation</b>.<br/>
 🔧 Je construis des <b>home labs</b> pour simuler des environnements d’entreprise (Active Directory, réseaux, cloud).<br/>
 </p>
 

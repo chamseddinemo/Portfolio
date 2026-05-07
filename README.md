@@ -12,7 +12,7 @@ Portfolio
 
 ---
 
-<h2>Software Development Projects</h2>
+<h2>Development Projects</h2>
 
 - <b>🔹 Algorithms & Data Structures (c#)</b>  
   

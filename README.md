@@ -17,23 +17,22 @@ Portfolio
 - <b>🔹 Algorithms & Data Structures (c#)</b>  
   
 - <b>🔹 Full Stack Web App (React / Node.js)</b>  
-  👉 Voir le projet: [https://github.com/chamseddinemo/MonCondo-]
+  👉 Voir le projet: https://github.com/chamseddinemo/MonCondo-
 
 - <b>🔹 Automation Scripts (PowerShell)</b>  
-  👉 Voir le projet :[https://github.com/chamseddinemo/AUTOMATION-POWERSHELL-]
+  👉 Voir le projet :https://github.com/chamseddinemo/AUTOMATION-POWERSHELL-
 
 - <b>🔹 Active Directory Projet </b>  
-  👉 Voir le projet :[https://github.com/chamseddinemo/Active-Directory-IT-Infrastructure-Lab]
+  👉 Voir le projet :https://github.com/chamseddinemo/Active-Directory-IT-Infrastructure-Lab
   
 - <b>🔹 Entra ID Projet </b>  
-  👉 Voir le projet :[https://github.com/chamseddinemo/Microsoft-Entra-ID]
+  👉 Voir le projet :https://github.com/chamseddinemo/Microsoft-Entra-ID
 
  - <b>🔹 Microsoft 365 Projet </b>  
-  👉 Voir le projet :[https://github.com/chamseddinemo/Entra-ID-Microsoft-365-Enterprise-]
+  👉 Voir le projet :https://github.com/chamseddinemo/Entra-ID-Microsoft-365-Enterprise-
 
  - <b>🔹 ticketing system (En cour)</b>  
-  👉 Voir le projet :[https://github.com/chamseddinemo/-Ticketing-System-Project]
-
+  👉 Voir le projet :https://github.com/chamseddinemo/-Ticketing-System-Project
 
 ---
 
@@ -53,7 +52,7 @@ Deployed a Windows Server domain controller and managed users, groups, and permi
 👉 <b>Skills:</b> User account management, domain administration  
 🔗 https://github.com/chamseddinemo/Active-Directory-IT-Infrastructure-Lab
 
-<p> Projet de ACTIVE DIRECTORY AVEC PHASSE AUTOMATISATION voici le lien : </p>
+<p> Active Directory & PowerShell Automation Project: </p>
 https://github.com/chamseddinemo/AUTOMATION-POWERSHELL-
 
 ---

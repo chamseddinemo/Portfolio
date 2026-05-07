@@ -156,13 +156,6 @@ VMware | VirtualBox | Git | ServiceNow | Jira
   Active Directory | Microsoft 365 | Azure | IT Support Labs
   
 ---
-<h2>🚀 Current Goals</h2>
-
-- ✔️  ....
-- ✔️  ....
-- ✔️  ....
-
----
 
 <h2>🤳 Connect with me</h2>
 

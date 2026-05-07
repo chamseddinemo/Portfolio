@@ -42,7 +42,7 @@ Deployed a Windows Server domain controller and managed users, groups, and permi
 👉 <b>Skills:</b> User account management, domain administration  
 🔗 https://github.com/chamseddinemo/Active-Directory-IT-Infrastructure-Lab
 
-<p> rajoute un autre lab de ACTIVE DIRECTORY AVEC PHASSE AUTOMATISATION voici le lien : </p>
+<p> Projet de ACTIVE DIRECTORY AVEC PHASSE AUTOMATISATION voici le lien : </p>
 https://github.com/chamseddinemo/AUTOMATION-POWERSHELL-
 
 ---
@@ -99,32 +99,6 @@ Configured network settings and diagnosed connectivity issues.
 - Resolved DNS issues
 
 👉 <b>Skills:</b> Network troubleshooting  
-
----
-
-### 🔐 Security Lab
-<b>Description:</b>  
-Implemented basic security configurations.
-
-<b>Key Tasks:</b>
-- Enabled MFA
-- Configured antivirus
-- Used BitLocker for disk encryption
-
-👉 <b>Skills:</b> IT security fundamentals  
-
----
-
-### 🏪 POS Support Lab
-<b>Description:</b>  
-Simulated a retail IT environment.
-
-<b>Key Tasks:</b>
-- Configured POS system
-- Connected receipt printer and scanner
-- Troubleshot device connectivity
-
-👉 <b>Skills:</b> POS support, hardware troubleshooting  
 
 ---
 
